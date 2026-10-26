@@ -1,0 +1,11 @@
+{
+  "id": "backend-mid",
+  "targetRole": "backend-engineer",
+  "expected": {
+    "skills": ["Java", "Spring Boot", "SQL", "REST APIs", "Microservices", "Kafka", "Redis", "Docker", "AWS", "Git", "Unit Testing", "Data Structures & Algorithms", "CI/CD"],
+    "yearsMin": 4.9,
+    "yearsMax": 5.5,
+    "topRole": "backend-engineer"
+  },
+  "resumeText": "Aarav Sharma\nBengaluru | aarav.sharma@example.com | +91 98765 43210 | linkedin.com/in/aarav-example | github.com/aarav-example\n\nSummary\nBackend engineer building high-throughput payment services with Java and Spring Boot.\n\nWork Experience\nSoftware Engineer II, FinPay Technologies — Jan 2023 – Present\n- Built REST APIs in Java 17 and Spring Boot serving 2M requests/day with p99 latency under 120ms.\n- Migrated a monolith to 6 microservices communicating over Kafka, reducing deployment time by 70%.\n- Introduced Redis caching for merchant lookups, cutting database load by 40%.\n- Mentored 3 interns and led code reviews; wrote JUnit tests raising coverage from 45% to 80%.\n\nSoftware Engineer, ShopKart — Jul 2021 – Dec 2022\n- Developed order-management services on PostgreSQL and deployed them with Docker on AWS EC2.\n- Automated release pipeline with Jenkins, saving 6 hours per week of manual work.\n- Optimized slow SQL queries, improving checkout page load time by 35%.\n\nProjects\nURL Shortener — Spring Boot, Redis, Docker. Handles 5k requests per second in load tests.\n\nEducation\nB.Tech in Computer Science, VIT Vellore, 2017 - 2021\n\nSkills\nJava, Spring Boot, PostgreSQL, MySQL, Kafka, Redis, Docker, AWS, Git, JUnit, Data Structures, Algorithms\n"
+}

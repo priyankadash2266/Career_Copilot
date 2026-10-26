@@ -1,0 +1,30 @@
+{
+  "jobs": [
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/rubrik/jobs/111",
+      "internal_job_id": 1,
+      "location": { "name": "Bengaluru, India" },
+      "id": 111,
+      "updated_at": "2026-09-20T03:52:53-04:00",
+      "title": "Staff Software Engineer, Data Platform",
+      "first_published": "2026-09-14T03:49:28-04:00",
+      "content": "&lt;div&gt;&lt;strong&gt;About the role&lt;/strong&gt;&lt;/div&gt;&lt;p&gt;Design distributed systems in Java and Kubernetes.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Scale our metadata service&lt;/li&gt;&lt;/ul&gt;",
+      "departments": [{ "id": 1, "name": "Engineering", "child_ids": [], "parent_id": null }],
+      "offices": [{ "id": 1, "name": "Bengaluru", "location": "Bengaluru, India", "child_ids": [], "parent_id": null }]
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/rubrik/jobs/222",
+      "location": { "name": "Palo Alto, CA" },
+      "id": 222, "updated_at": "2026-09-20T03:52:53-04:00", "title": "Software Engineer",
+      "content": "&lt;p&gt;US role&lt;/p&gt;", "departments": [], "offices": []
+    },
+    {
+      "absolute_url": "https://job-boards.greenhouse.io/rubrik/jobs/333",
+      "location": { "name": "Remote - India" },
+      "id": 333, "updated_at": "2026-09-21T03:52:53-04:00", "first_published": "2026-09-21T03:00:00-04:00",
+      "title": "Machine Learning Engineer II", "content": "&lt;p&gt;Train models with PyTorch and Python.&lt;/p&gt;",
+      "departments": [{ "id": 2, "name": "AI" }], "offices": []
+    }
+  ],
+  "meta": { "total": 3 }
+}

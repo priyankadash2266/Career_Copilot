@@ -1,0 +1,11 @@
+{
+  "id": "ml-switcher",
+  "targetRole": "ai-engineer",
+  "expected": {
+    "skills": ["Python", "Machine Learning", "Deep Learning", "PyTorch", "NLP", "LLMs", "RAG", "LangChain", "FastAPI", "Docker", "Git", "SQL"],
+    "yearsMin": 1.5,
+    "yearsMax": 2.5,
+    "topRole": "ai-engineer"
+  },
+  "resumeText": "Rohan Verma\nHyderabad | rohan.v@example.com | github.com/rohan-example\n\nProfessional Experience\nML Engineer, InsightAI Labs — Sep 2024 – Present\n- Designed a RAG chatbot with LangChain, a Pinecone vector database and the OpenAI API, answering 3k support queries per day.\n- Fine-tuned transformer models in PyTorch for NLP ticket classification, improving accuracy by 12%.\n- Deployed models as FastAPI services in Docker containers.\n\nProjects\nResume Parser — spaCy, Python. Extracts entities from 500+ resumes.\nPrompt engineering playground comparing Gemini and GPT on reasoning tasks.\n\nEducation\nM.Tech in Artificial Intelligence, IIIT Hyderabad, 2022 - 2024\n\nSkills\nPython, Machine Learning, Deep Learning, PyTorch, NLP, LLMs, RAG, LangChain, FastAPI, Docker, Git, SQL\n"
+}

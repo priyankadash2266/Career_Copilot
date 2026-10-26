@@ -1,0 +1,22 @@
+{
+  "jobs": [
+    {
+      "id": "ashby-1", "title": "Product Designer", "department": "Design", "team": "Design", "employmentType": "FullTime",
+      "location": "Bengaluru", "secondaryLocations": [], "publishedAt": "2026-09-30T10:00:00.000+00:00",
+      "isListed": true, "isRemote": false, "workplaceType": "OnSite",
+      "address": { "postalAddress": { "addressCountry": "India", "addressLocality": "Bengaluru" } },
+      "jobUrl": "https://jobs.ashbyhq.com/sarvam/ashby-1", "applyUrl": "https://jobs.ashbyhq.com/sarvam/ashby-1/application",
+      "descriptionHtml": "<p>Design our voice products in Figma.</p>", "descriptionPlain": "Design our voice products in Figma."
+    },
+    {
+      "id": "ashby-2", "title": "Research Scientist, Speech", "department": "Research", "location": "Remote",
+      "secondaryLocations": [{ "location": "India" }], "publishedAt": "2026-10-01T10:00:00.000+00:00",
+      "isListed": true, "isRemote": true, "workplaceType": "Remote",
+      "jobUrl": "https://jobs.ashbyhq.com/sarvam/ashby-2", "descriptionPlain": "", "descriptionHtml": "<p>Work on <b>LLMs</b> &amp; speech.</p>"
+    },
+    {
+      "id": "ashby-3", "title": "Hidden role", "location": "Bengaluru", "isListed": false,
+      "jobUrl": "https://jobs.ashbyhq.com/sarvam/ashby-3", "descriptionPlain": "Not public."
+    }
+  ]
+}

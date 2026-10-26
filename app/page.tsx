@@ -1,31 +1,20 @@
-import Hero from "@/components/Hero";
-import Navbar from "@/components/Navbar";
-import Features from "@/components/Features";
-import FutureYou from "@/components/FutureYou";
-import HowItWorks from "@/components/HowItWorks";
-import ResumeAnalysisDemo from "@/components/ResumeAnalysisDemo";
-import SalaryPredictor from "@/components/SalaryPredictor";
-import ResumeUpload from "@/components/ResumeUpload";
-import CareerGPS from "@/components/CareerGPS";
-import Footer from "@/components/Footer";
+import Hero from "@/components/landing/Hero";
+import Tools from "@/components/landing/Tools";
+import LiveJobs from "@/components/landing/LiveJobs";
+import HowItWorks from "@/components/landing/HowItWorks";
+import FinalCta from "@/components/landing/FinalCta";
+
+// The "hot right now" section reads live board data on every request.
+export const dynamic = "force-dynamic";
 
 export default function Home() {
   return (
-    <main className="bg-black text-white min-h-screen">
-      <Navbar />
+    <>
       <Hero />
-      <Features />
-      <FutureYou />
+      <Tools />
+      <LiveJobs />
       <HowItWorks />
-      <ResumeAnalysisDemo />
-      <SalaryPredictor />
-      <ResumeUpload />
-      <CareerGPS />
-      <Footer />
-
-
-
-
-    </main>
+      <FinalCta />
+    </>
   );
 }

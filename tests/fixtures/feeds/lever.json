@@ -1,0 +1,31 @@
+[
+  {
+    "additional": "", "additionalPlain": "We offer flexible hours.",
+    "categories": { "commitment": "full time", "department": "Engineering", "location": "bengaluru", "team": "Platform", "allLocations": ["bengaluru"] },
+    "createdAt": 1790573982021,
+    "description": "", "descriptionPlain": "",
+    "id": "lever-backend-1",
+    "lists": [
+      { "text": "What you'll do", "content": "<li>Build payment APIs in Golang and Kafka</li><li>Own PostgreSQL schemas</li>" },
+      { "text": "What you need", "content": "<li>3+ years building backend systems on AWS</li>" }
+    ],
+    "text": "senior backend engineer",
+    "country": "IN", "workplaceType": "hybrid",
+    "opening": "", "openingPlain": "CRED is building rewards for the creditworthy.",
+    "descriptionBody": "", "descriptionBodyPlain": "",
+    "hostedUrl": "https://jobs.lever.co/cred/lever-backend-1",
+    "applyUrl": "https://jobs.lever.co/cred/lever-backend-1/apply"
+  },
+  {
+    "categories": { "location": "hyderabad", "team": "finance", "allLocations": ["hyderabad"] },
+    "createdAt": 1790573982021, "descriptionPlain": "Manage vendor payments.",
+    "id": "lever-finance-1", "lists": [], "text": "accounts payable manager", "country": "IN", "workplaceType": "onsite",
+    "hostedUrl": "https://jobs.lever.co/cred/lever-finance-1"
+  },
+  {
+    "categories": { "location": "San Francisco", "team": "Engineering", "allLocations": ["San Francisco"] },
+    "createdAt": 1790573982021, "descriptionPlain": "Build things in SF.",
+    "id": "lever-sf-1", "lists": [], "text": "Software Engineer", "country": "US", "workplaceType": "onsite",
+    "hostedUrl": "https://jobs.lever.co/cred/lever-sf-1"
+  }
+]

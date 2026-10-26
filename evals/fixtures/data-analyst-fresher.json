@@ -1,0 +1,11 @@
+{
+  "id": "data-analyst-fresher",
+  "targetRole": "data-analyst",
+  "expected": {
+    "skills": ["SQL", "Excel", "Python", "Pandas", "Power BI", "Statistics"],
+    "yearsMin": 0,
+    "yearsMax": 0.6,
+    "topRole": "data-analyst"
+  },
+  "resumeText": "Meera Iyer\nPune | meera.iyer@example.com | +91 91234 56789\n\nObjective\nFinal-year statistics student looking for a Data Analyst role.\n\nInternship\nData Analyst Intern, RetailMart — Jun 2026 – Aug 2026\n- Analyzed 1.2 lakh sales records in SQL and Excel to find the top 20 loss-making SKUs.\n- Created a Power BI dashboard used by 15 store managers every week.\n\nProjects\nIPL Analytics — Python, Pandas, Matplotlib. Cleaned 10 seasons of match data and ran hypothesis testing on toss impact.\nCustomer Churn Study — Excel pivot tables and VLOOKUP to segment 5k customers.\n\nEducation\nB.Sc. Statistics, Fergusson College, 2023 - 2026\n\nSkills\nSQL, Advanced Excel, Python, Pandas, NumPy, Power BI, Statistics\n"
+}
